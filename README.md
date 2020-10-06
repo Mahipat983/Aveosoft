@@ -10,3 +10,5 @@ Installation Steps:
 3)write NPM i
 
 4)NPM Start
+
+Note: when run the project that time any error occure so that time to change react-script version in package.json choose your react-script version
