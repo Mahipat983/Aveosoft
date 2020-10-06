@@ -1,4 +1,4 @@
-# Avosoft
+# Aveosoft
 This project in  create a page that displays a list of products and show category in select box. select box in select one cetegory should filter the list of products.
 
 Installation Steps:
