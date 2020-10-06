@@ -3,7 +3,7 @@ This project in  create a page that displays a list of products and show categor
 
 Installation Steps:
 
-1)Download File
+1)Download Zip File
 
 2)open CMD and go to the file
 
